@@ -1,2 +1,2 @@
 # Multithreading
-Example projects that explore uses of multi-threading using POSIX threads
+Example projects that explore uses of multi-threading in C using POSIX threads
